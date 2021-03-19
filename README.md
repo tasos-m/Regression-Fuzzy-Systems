@@ -1,4 +1,5 @@
 # Computational Intelligence - Regression Assignment
+
 In this assignment, fuzzy TSK models are built to fit nonlineaar, multivariable functions, in order to solve regression problem.
 
 ## Part 1
