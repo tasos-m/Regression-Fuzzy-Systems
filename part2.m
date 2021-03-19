@@ -1,4 +1,3 @@
-%% Anastasios Mouratidis, AEM 9040
 %% Regression - part 2
 %% Import and split data
 
