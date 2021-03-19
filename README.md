@@ -30,3 +30,6 @@ In the second part, a large dataset of 21263 samples and 81 feautures is used. T
 | --- | --- | --- | --- |
 | 14.7679 | 0.1866	| 0.432	| 0.8134 |
 
+### Split Scale
+In both parts we use the split_scale.m function to split the data in training, validation and checking data and there is an option to normalize or standardize them.
+
