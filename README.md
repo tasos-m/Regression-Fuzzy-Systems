@@ -1,8 +1,8 @@
 # Computational Intelligence - Regression Assignment
-In this assignement, fuzzy TSK models are built to fit nonlineaar, multivariable functions.
+In this assignment, fuzzy TSK models are built to fit nonlineaar, multivariable functions.
 
 ## Part 1
-The first part of the assignement is about the training process and the evaluation of four models. 
+The first part of the assignment is about the training process and the evaluation of four models. 
 >Dataset used: [Airfoil Self-Noise Dataset](https://archive.ics.uci.edu/ml/datasets/airfoil+self-noise) 
 
 During the experiment these 4 models were tested:
