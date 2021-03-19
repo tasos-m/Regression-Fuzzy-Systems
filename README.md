@@ -6,10 +6,10 @@ The first part of the assignment is about the training process and the evaluatio
 >Dataset used: [Airfoil Self-Noise Dataset](https://archive.ics.uci.edu/ml/datasets/airfoil+self-noise) 
 
 During the experiment these 4 models were tested:
-* **TSK Model 1:** 2 Gaussian Input member functions and Singleton Output (constant)
-* **TSK Model 2:** 3 Gaussian Input member functions and Singleton Output (constant)
-* **TSK Model 3:** 2 Gaussian Input member functions and Polynomial Output (linear)
-* **TSK Model 4:** 3 Gaussian Input member functions and Polynomial Output (linear)
+* **TSK Model 1;** 2 Gaussian Input member functions and Singleton Output (constant)
+* **TSK Model 2;** 3 Gaussian Input member functions and Singleton Output (constant)
+* **TSK Model 3;** 2 Gaussian Input member functions and Polynomial Output (linear)
+* **TSK Model 4;** 3 Gaussian Input member functions and Polynomial Output (linear)
 
 ### Metrics of the 4 models
 |  | **RMSE** | **NMSE** | **NDEI** | **R<sup>2</sup>** |
